@@ -1,0 +1,90 @@
+[
+  {
+    "firstname": "grgsjyh",
+    "lastname": "bgshygh",
+    "password": "12345",
+    "mobile": "09081510756",
+    "gender": "Male",
+    "birthdate": "7855-07-08",
+    "address": "Kailash nagar,fazilka",
+    "country": "India",
+    "pincode": "152023"
+  },
+  {
+    "firstname": "grgsjyhafhgyjkjl",
+    "lastname": "bgshygh",
+    "password": "1234567",
+    "mobile": "125478569",
+    "gender": "Male",
+    "birthdate": "1222-12-12",
+    "address": "fghjkl;'",
+    "country": "India",
+    "pincode": "152023"
+  },
+  {
+    "firstname": "Channpreet",
+    "lastname": "Kaur",
+    "password": "456",
+    "mobile": "09041510759",
+    "gender": "Female",
+    "birthdate": "2005-09-09",
+    "address": "Kailash nagar,fazilka,punjab",
+    "country": "India",
+    "pincode": "152123"
+  },
+  {
+    "firstname": "Channpreet",
+    "lastname": "Kaur",
+    "password": "vb",
+    "mobile": "09041510750",
+    "gender": "Female",
+    "birthdate": "2005-08-08",
+    "address": "fghjkl;'",
+    "country": "India",
+    "pincode": "152123"
+  },
+  {
+    "firstname": "Channpreet",
+    "lastname": "Kaur",
+    "password": "123",
+    "mobile": "09041510756",
+    "gender": "Female",
+    "birthdate": "2005-03-05",
+    "address": "Kailash nagar,fazilka",
+    "country": "India",
+    "pincode": "152123"
+  },
+  {
+    "firstname": "Channpreet",
+    "lastname": "Kaur",
+    "password": "123",
+    "mobile": "09041510753",
+    "gender": "Female",
+    "birthdate": "2000-02-03",
+    "address": "Kailash nagar,fazilka",
+    "country": "India",
+    "pincode": "152123"
+  },
+  {
+    "firstname": "Channpreet",
+    "lastname": "Kaur",
+    "password": "123",
+    "mobile": "09041510752",
+    "gender": "Female",
+    "birthdate": "2005-02-03",
+    "address": "Kailash nagar,fazilka,punjab",
+    "country": "India",
+    "pincode": "152123"
+  },
+  {
+    "firstname": "Channpreet",
+    "lastname": "Kaur",
+    "password": "123",
+    "mobile": "09041510755",
+    "gender": "Female",
+    "birthdate": "20005-02-03",
+    "address": "Kailash nagar,fazilka",
+    "country": "India",
+    "pincode": "152123"
+  }
+]
